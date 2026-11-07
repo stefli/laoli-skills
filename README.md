@@ -7,6 +7,7 @@
 | Repo | Name | What | Local id |
 |---|---|---|---|
 | [`laoli-wechat-copy`](https://github.com/stefli/laoli-wechat-copy) | 科技热点图文 | 公众号等多平台成稿：事实核、标题口味、配置接线骨架、Pages 交付 | `skill-1791963133511` |
+| [`laoli-title`](https://github.com/stefli/laoli-title) | 老李公众号标题规范 | 公众号/科技图文标题：点击三步、品牌检索、禁忌与交付分组 | `skill-1794022604957` |
 | [`laoli-remotion-shorts`](https://github.com/stefli/laoli-remotion-shorts) | 科技短视频节奏与特效 | Remotion 竖屏科技快播 15s、特效与旁白 | `skill-1792119748981` |
 | [`laoli-topic-pool`](https://github.com/stefli/laoli-topic-pool) | 公众号选题池 | 老李的AI江湖选题任务池与日更节奏 | `skill-1792165037013` |
 | [`laoli-local-git`](https://github.com/stefli/laoli-local-git) | 优先本地推仓 | 小改动/文档默认本地 git，勿滥开云端 agent | `skill-1792292123460` |
