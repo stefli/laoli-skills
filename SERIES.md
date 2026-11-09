@@ -12,3 +12,4 @@
 - laoli-she
 - laoli-title
 - laoli-topic-taste
+- [laoli-completion-growth](https://github.com/stefli/laoli-completion-growth) — 视频完播涨粉（叠加改稿清单）
